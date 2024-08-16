@@ -1,5 +1,6 @@
 <?php
-$nome = $_POST['nome'];/*Conteúdo que chegar para mim via POST do campo 'nome'*/
+//As informações do formulário vem para ca.
+$nome = $_POST['nome'];/*Conteúdo que chegar para mim via POST do campo 'nome'(_POST ou GET, variaveis globais)*/
 $email = $_POST['email'];
 $mensagem = $_POST['mensagem'];
 $assunto =  "Email do Site";

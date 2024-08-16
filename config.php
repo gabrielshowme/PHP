@@ -1,5 +1,5 @@
 <?php
-//variaveis globais
+//variaveis globais(Configurações do Banco de Dados)
 
 
 //variaveis do banco de dados local
