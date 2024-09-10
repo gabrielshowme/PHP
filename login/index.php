@@ -19,7 +19,7 @@
                             </div>
                             <div class="form-group">
                                 <label for="password" class="text-info">Senha:</label><br>
-                                <input type="text" name="senhar" id="password" class="form-control" placeholder="Insira sua senha">
+                                <input type="text" name="senha" id="password" class="form-control" placeholder="Insira sua senha">
                             </div>
                             <div class="form-group">
                                 <label for="remember-me" class="text-info"><span>Lembre-me</span> <span><input id="remember-me" name="remember-me" type="checkbox"></span></label><br>
